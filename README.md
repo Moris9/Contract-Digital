@@ -15,10 +15,6 @@
 * in its own terminal tab run: `npx buidler node`
 * Run test with `GAS` profiling `yarn test-with-gas`
 
-## Metadata
-
-*  See project [nft-minting-scripts](https://github.com/DIGITALAX/nft-minting-scripts)
-
 ### Subgraph
 
 * Responsible for indexing events/data from the Digitalax contracts
